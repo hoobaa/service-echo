@@ -1,2 +1,2 @@
 #!/bin/sh
-exec env - /opt/local/sbin/svlogd -tt .
+exec env - /usr/local/sbin/svlogd -tt .
