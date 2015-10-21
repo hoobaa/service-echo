@@ -1,0 +1,5 @@
+supervise/*
+log/*.s
+log/current
+log/lock
+log/supervise/*

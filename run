@@ -1,0 +1,10 @@
+#!/usr/bin/env perl
+
+# echo fuck error
+
+if (rand(10) < 3) {
+       printf("TEST ERROR %f\n", rand(10));
+} else {
+       printf("TEST INFO %f\n", rand(10));
+}
+sleep 1
